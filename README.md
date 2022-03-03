@@ -1,1 +1,1 @@
-# POAP-Artwork-for-Connext
+# Connext-POAP
